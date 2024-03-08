@@ -1,4 +1,5 @@
-# Form Processing Project
+                                                                                                                                                                                          
+         # Form Processing Project
 This project demonstrates form processing using JavaServer Pages (JSP) with both the GET and POST methods. It consists of two JSP files:
 
 ### submitForm.jsp: 
@@ -28,4 +29,4 @@ To run this project locally, follow these steps:
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).                 
